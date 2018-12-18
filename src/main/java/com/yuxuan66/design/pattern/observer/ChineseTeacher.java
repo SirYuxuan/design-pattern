@@ -1,4 +1,4 @@
-package com.yuxuan66.designpattern.observer;
+package com.yuxuan66.design.pattern.observer;
 
 /**
  * 中文老师，发布考试 被观察者

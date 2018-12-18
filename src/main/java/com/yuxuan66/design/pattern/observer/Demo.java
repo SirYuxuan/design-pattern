@@ -1,4 +1,4 @@
-package com.yuxuan66.designpattern.observer;
+package com.yuxuan66.design.pattern.observer;
 
 /**
  * 演示观察者模式

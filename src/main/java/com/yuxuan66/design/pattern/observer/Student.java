@@ -1,4 +1,4 @@
-package com.yuxuan66.designpattern.observer;
+package com.yuxuan66.design.pattern.observer;
 
 /**
  * 学生类,观察老师发布考试的动作
